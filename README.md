@@ -23,3 +23,7 @@ project bridges the gap between cutting-edge technology and security imperatives
 presenting an innovative approach to barcode detection. The outcomes of this research
 contribute to the ongoing efforts to fortify digital and physical infrastructures, providing a
 foundation for future advancements in the field of cybersecurity. 
+
+
+
+#Output
