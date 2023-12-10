@@ -22,8 +22,18 @@ tool with far-reaching implications for security-conscious industries. In conclu
 project bridges the gap between cutting-edge technology and security imperatives by
 presenting an innovative approach to barcode detection. The outcomes of this research
 contribute to the ongoing efforts to fortify digital and physical infrastructures, providing a
-foundation for future advancements in the field of cybersecurity. 
+foundation for future advancements in the field of cybersecurity.
+
+
+# Test Barcode   
+
+![jpeg](https://github.com/DOPExVibhu/Barcode-detection/assets/104273406/c32f3733-9fd5-43cf-81df-c5611c5b254b)
+
+
+# Output 
+
+![image](https://github.com/DOPExVibhu/Barcode-detection/assets/104273406/230608a0-1d93-43de-9f44-0dbc8934ccd3)
 
 
 
-#Output
+
